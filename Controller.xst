@@ -1,5 +1,0 @@
-set -tmpdir "C:/hdl/p4/xst/projnav.tmp"
-set -xsthdpdir "C:/hdl/p4/xst"
-elaborate
--ifn Controller.prj
--ifmt mixed
